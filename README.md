@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](https://raw.githubusercontent.com/drajathasan/html2spreadsheet/master/preview.png "Preview")
 
 ## Cara Pasang
