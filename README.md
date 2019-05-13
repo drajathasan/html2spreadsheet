@@ -1,3 +1,6 @@
+Inline-style: 
+![alt text](https://raw.githubusercontent.com/drajathasan/html2spreadsheet/master/preview.png "Preview")
+
 ## Cara Pasang
 
 1. Pindahkan file item_usage.php ke dalam folder admin/modules/reporting/customs/
